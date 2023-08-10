@@ -1,1 +1,1 @@
-# Famcoin
+# Nova lite
